@@ -10,4 +10,7 @@
 ritzorama/ritzorama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="help.svg" width="150px" />
+Who knows what I will create here <img src="help.svg" width="12px" />. I wonder, too.
+
+It could be amazing.
+
