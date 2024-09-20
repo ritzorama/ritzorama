@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritzorama
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 
 ### 😄 Fun facts
 
@@ -16,3 +16,4 @@ Who knows what I will create here <img src="help.svg" width="12px" />. I wonder,
 
 It could be amazing.
 
+- 💞️ I’m looking to collaborate on all kinds of interesting stuff.
