@@ -1,4 +1,4 @@
-<table align="right"><tr><td>
+<table align="right"><tr><td align="center">
 <a href= "https://badges.layer5.io" >
   <img width="224px" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
 <br />Get your own badge</a>
